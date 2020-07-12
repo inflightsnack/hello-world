@@ -19,7 +19,7 @@ email: inflightsnack@icloud.com
 description: >- # this means to ignore newlines until "baseurl:"
   This is the official website and blog of the inflightsnack hello-world
   project. Expect exciting posts about interesting stuff.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/hello-world" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: inflightsnack1
 github_username:  inflightsnack
