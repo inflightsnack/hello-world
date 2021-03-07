@@ -22,7 +22,10 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "/hello-world" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: inflightsnack1
-github_username:  inflightsnack
+github_username: inflightsnack
+minima:
+  date_format: "%d %b, %Y"
+#timezone: Europe/London
 
 # Build settings
 markdown: kramdown
